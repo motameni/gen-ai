@@ -8,4 +8,4 @@ Simply use Persian questions and pass it directly to the agent
 ## Approach 2:
 Translate messages to English before passing messages to the agent
 
-[attempt1](outputs/02-1.txt)
+[attempt1](outputs/02-1.txt) / [attempt2](outputs/02-2.txt)
